@@ -2,9 +2,36 @@ body{
   background-color: #f9f9f9;
 }
 
+*{
+  box-sizing: border-box;
+}
+
 .container{
   background-color: black;
   width: 450px;
   height: 700px;
   margin: 0 auto;
+  color: white;
+}
+
+.display{
+
+}
+
+.keypad button{
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  border: none;
+  font-size: 35px;
+  color: white;
+  background-color :#333333;
+}
+
+button.executers{
+  background-color: #a3a3a4;
+}
+
+button.operators{
+  background-color: #f69507;
 }
