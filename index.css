@@ -48,3 +48,10 @@ button.executers{
 button.operators{
   background-color: #f69507;
 }
+
+#zero{
+  width: 190px;
+  border-radius: 50px;
+  text-align: left;
+  padding-left: 40px
+}
